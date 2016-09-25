@@ -1,3 +1,4 @@
 name "levmar-d"
 description "Levmar bindings for D."
 license "GPL-3.0"
+targetType "sourceLibrary"
