@@ -37,7 +37,7 @@ extern(C)
         int m,
         int n,
         void* adata
-    )
+    );
 
     /+ - unconstrained minimization - +/
 
