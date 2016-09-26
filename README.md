@@ -1,4 +1,4 @@
-# levmar-d
+# levmar
 D bindings for levmar.
 http://users.ics.forth.gr/~lourakis/levmar/index.html
 
